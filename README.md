@@ -5,9 +5,16 @@ Tested on KSP v1.12.5. Using any other version of KSP may cause the mod to not w
 
 ## Dependencies (REQURIED FOR THE MOD TO WORK!)
 - Module Manager
-
-## Recommended Mods
 - Waterfall
+
+## Extras
+There is an option to use experimental PBR Materials on the Blue Moon Lander. IF you choose to use them, you need to have Textures Unlimited installed.
+
+If your reflections look weird and/or black, use these graphics settings: 
+- Reflection Texture Resolution: at least 256
+- Reflection Refresh Rate: at least Medium
+- Render Quality: at least Good
+
 
 ## Licensing
 
