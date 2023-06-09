@@ -7,6 +7,9 @@ Tested on KSP v1.12.5. Using any other version of KSP may cause the mod to not w
 - Module Manager
 - Waterfall
 
+## Recommended Mods
+- Provenance Aerospace
+
 ## Extras
 There is an option to use experimental PBR Materials on the Blue Moon Lander. IF you choose to use them, you need to have Textures Unlimited installed.
 
