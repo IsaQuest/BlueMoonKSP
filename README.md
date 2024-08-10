@@ -6,6 +6,7 @@ Tested on KSP v1.12.5. Using any other version of KSP may cause the mod to not w
 ## Dependencies (REQURIED FOR THE MOD TO WORK!)
 - Module Manager
 - Waterfall
+- B9 Part Switch
 
 ## Recommended Mods
 - Provenance Aerospace
